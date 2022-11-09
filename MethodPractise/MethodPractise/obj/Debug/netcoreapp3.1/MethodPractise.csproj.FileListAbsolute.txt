@@ -1,0 +1,14 @@
+C:\Users\Администратор\Desktop\FlowchartToCsharp\MethodPractise\MethodPractise\bin\Debug\netcoreapp3.1\MethodPractise.exe
+C:\Users\Администратор\Desktop\FlowchartToCsharp\MethodPractise\MethodPractise\bin\Debug\netcoreapp3.1\MethodPractise.deps.json
+C:\Users\Администратор\Desktop\FlowchartToCsharp\MethodPractise\MethodPractise\bin\Debug\netcoreapp3.1\MethodPractise.runtimeconfig.json
+C:\Users\Администратор\Desktop\FlowchartToCsharp\MethodPractise\MethodPractise\bin\Debug\netcoreapp3.1\MethodPractise.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\FlowchartToCsharp\MethodPractise\MethodPractise\bin\Debug\netcoreapp3.1\MethodPractise.dll
+C:\Users\Администратор\Desktop\FlowchartToCsharp\MethodPractise\MethodPractise\bin\Debug\netcoreapp3.1\MethodPractise.pdb
+C:\Users\Администратор\Desktop\FlowchartToCsharp\MethodPractise\MethodPractise\obj\Debug\netcoreapp3.1\MethodPractise.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\FlowchartToCsharp\MethodPractise\MethodPractise\obj\Debug\netcoreapp3.1\MethodPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\FlowchartToCsharp\MethodPractise\MethodPractise\obj\Debug\netcoreapp3.1\MethodPractise.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\FlowchartToCsharp\MethodPractise\MethodPractise\obj\Debug\netcoreapp3.1\MethodPractise.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\FlowchartToCsharp\MethodPractise\MethodPractise\obj\Debug\netcoreapp3.1\MethodPractise.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\FlowchartToCsharp\MethodPractise\MethodPractise\obj\Debug\netcoreapp3.1\MethodPractise.dll
+C:\Users\Администратор\Desktop\FlowchartToCsharp\MethodPractise\MethodPractise\obj\Debug\netcoreapp3.1\MethodPractise.pdb
+C:\Users\Администратор\Desktop\FlowchartToCsharp\MethodPractise\MethodPractise\obj\Debug\netcoreapp3.1\MethodPractise.genruntimeconfig.cache
