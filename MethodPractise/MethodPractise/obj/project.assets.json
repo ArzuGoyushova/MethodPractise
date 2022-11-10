@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Администратор\\Desktop\\FlowchartToCsharp\\MethodPractise\\MethodPractise\\MethodPractise.csproj",
+      "projectUniqueName": "C:\\Users\\Администратор\\Desktop\\MethodForEach\\MethodPractise\\MethodPractise\\MethodPractise.csproj",
       "projectName": "MethodPractise",
-      "projectPath": "C:\\Users\\Администратор\\Desktop\\FlowchartToCsharp\\MethodPractise\\MethodPractise\\MethodPractise.csproj",
+      "projectPath": "C:\\Users\\Администратор\\Desktop\\MethodForEach\\MethodPractise\\MethodPractise\\MethodPractise.csproj",
       "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Администратор\\Desktop\\FlowchartToCsharp\\MethodPractise\\MethodPractise\\obj\\",
+      "outputPath": "C:\\Users\\Администратор\\Desktop\\MethodForEach\\MethodPractise\\MethodPractise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
