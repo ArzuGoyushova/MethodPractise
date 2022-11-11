@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection.Metadata.Ecma335;
 using System.Threading;
 
 namespace MethodPractise
@@ -7,60 +8,71 @@ namespace MethodPractise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Method 1"); Console.
-            WriteLine("Please add your name:");
-            string name = Console.ReadLine();
-            Welcome(name);
+            //Console.WriteLine("Method 1"); 
+            //Console.Write("Please add your name:");
+            //string name = Console.ReadLine();
+            //Welcome(name);
 
-            Console.WriteLine("Method 2");
-            Console.WriteLine("Please add your age:");
-            int age = int.Parse(Console.ReadLine());
-            Age(age);
+            //Console.WriteLine("Method 2");
+            //Console.WriteLine("Please add your age:");
+            //int age = int.Parse(Console.ReadLine());
+            //Age(age);
 
-            Console.WriteLine("Method 3");
-            Console.WriteLine("Please add your bias's name:");
-            string bias = Console.ReadLine();
-            BTSbias(bias);
+            //Console.WriteLine("Method 3");
+            //Console.WriteLine("Please add your bias's name:");
+            //string bias = Console.ReadLine();
+            //BTSbias(bias);
 
-            Console.WriteLine("Method 4");
-            Console.WriteLine("Please add yours and your bias's ages:");
-            Console.Write("Bias age: ");
-            int biasAge = int.Parse(Console.ReadLine());
-            Console.Write("Your age: ");
-            int yourAge = int.Parse(Console.ReadLine());
-            Console.WriteLine(CompOfYourAges(yourAge, biasAge));
+            //Console.WriteLine("Method 4");
+            //Console.WriteLine("Please add yours and your bias's ages:");
+            //Console.Write("Bias age: ");
+            //int biasAge = int.Parse(Console.ReadLine());
+            //Console.Write("Your age: ");
+            //int yourAge = int.Parse(Console.ReadLine());
+            //Console.WriteLine(CompOfYourAges(yourAge, biasAge));
 
-            Console.WriteLine("Method 5");
-            Console.WriteLine("Please add members' names:");
-            Console.WriteLine(WholeGroup("Namjoon", "Seokjin", "Yoongi", "Hoseok", "Jimin", "Taehyung", "Jungkook"));
-            Console.WriteLine("You counted correctly.");
+            //Console.WriteLine("Method 5");
+            //Console.WriteLine("Please add members' names:");
+            //Console.WriteLine(WholeGroup("Namjoon", "Seokjin", "Yoongi", "Hoseok", "Jimin", "Taehyung", "Jungkook"));
+            //Console.WriteLine("You counted correctly.");
 
-            Console.WriteLine("Method 6");
-            Console.WriteLine("Power of the entered number:");
-            Console.WriteLine(PowerOfNumber(2,4));
+            //Console.WriteLine("Method 6");
+            //Console.WriteLine("Power of the entered number:");
+            //Console.WriteLine(PowerOfNumber(2,4));
 
-            Console.WriteLine("Method 7");
-            Console.WriteLine("Enter n number to describe Fibonacci sequence:");
+            //Console.WriteLine("Method 7");
+            //Console.WriteLine("Enter n number to describe Fibonacci sequence:");
 
-            for (int i = 0; i < 10; i++)
-            {
-                Console.Write(Fibonacci(i)+ " ");
-            }
+            //for (int i = 0; i < 10; i++)
+            //{
+            //    Console.Write(Fibonacci(i)+ " ");
+            //}
 
-            Console.WriteLine("Method 8");
-            Console.WriteLine(SumOfDigits(123));
+            //Console.WriteLine("Method 8");
+            //Console.WriteLine(SumOfDigits(123));
 
-            Console.WriteLine("Method 9");
-            Console.WriteLine(Fact(4));
+            //Console.WriteLine("Method 9");
+            //Console.WriteLine(Fact(4));
 
-            Console.Write("10th place: ");
-            Console.WriteLine(FiboNum(10));
+            //Console.WriteLine("Method 10");
+            //Console.Write("10th place: ");
+            //Console.WriteLine(FiboNum(10));
+
+            //Console.WriteLine("Method 11");
+            //Console.WriteLine(FindNum(9, 1,2,10,5,6));
+
+            //Console.WriteLine("Method 12");
+            //Console.WriteLine(Zeros(0,1,2,3,0,-4,-5,-6,0,7,8,0));
 
 
-            Console.WriteLine(FindNum(9, 1,2,10,5,6));
 
-            Console.WriteLine(Zeros(0,1,2,3,0,-4,-5,-6,0,7,8,0));
+            //Console.WriteLine(ArrRev(1,2,3,4,5));alinmadi
 
+            Console.WriteLine("Enter the month in number: ");
+            int mnum = int.Parse(Console.ReadLine());
+            Console.WriteLine(SwitchTest(mnum));
+
+            
         }
 
             static void Welcome(string name)
@@ -194,10 +206,38 @@ namespace MethodPractise
                 }
             }
             return $"Below zero = {countBelow0}, Over zero = {countOver0}, Zero = {count0}";
-            
-            
         }
 
+        static string ArrRev (params int[] arr4) 
+        {
+            int[] arr5 = new int[arr4.Length];
+            for (int i = arr4.Length-1; i>=0; i--)
+            {
+                arr5[i] = arr4[i];
+                return $"array:{arr5[i]}";
+            }
+            return "neyse";     
+        }
+       
+        static string SwitchTest (int month)
+        {
+            switch (month)
+            {
+                case 1:
+                case 3:
+                case 5:
+                case 7:
+                case 8:
+                case 10:
+                case 12:
+                    return "31 gun";
+                    break;
+
+                default:
+                    return "30 gun";
+                    break;
+            }
+        }
 
     }
 }
