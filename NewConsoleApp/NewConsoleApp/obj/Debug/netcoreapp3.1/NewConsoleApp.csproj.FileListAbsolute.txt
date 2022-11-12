@@ -1,0 +1,14 @@
+C:\Users\arzusg\source\repos\NewConsoleApp\NewConsoleApp\bin\Debug\netcoreapp3.1\NewConsoleApp.exe
+C:\Users\arzusg\source\repos\NewConsoleApp\NewConsoleApp\bin\Debug\netcoreapp3.1\NewConsoleApp.deps.json
+C:\Users\arzusg\source\repos\NewConsoleApp\NewConsoleApp\bin\Debug\netcoreapp3.1\NewConsoleApp.runtimeconfig.json
+C:\Users\arzusg\source\repos\NewConsoleApp\NewConsoleApp\bin\Debug\netcoreapp3.1\NewConsoleApp.runtimeconfig.dev.json
+C:\Users\arzusg\source\repos\NewConsoleApp\NewConsoleApp\bin\Debug\netcoreapp3.1\NewConsoleApp.dll
+C:\Users\arzusg\source\repos\NewConsoleApp\NewConsoleApp\bin\Debug\netcoreapp3.1\NewConsoleApp.pdb
+C:\Users\arzusg\source\repos\NewConsoleApp\NewConsoleApp\obj\Debug\netcoreapp3.1\NewConsoleApp.csproj.AssemblyReference.cache
+C:\Users\arzusg\source\repos\NewConsoleApp\NewConsoleApp\obj\Debug\netcoreapp3.1\NewConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzusg\source\repos\NewConsoleApp\NewConsoleApp\obj\Debug\netcoreapp3.1\NewConsoleApp.AssemblyInfoInputs.cache
+C:\Users\arzusg\source\repos\NewConsoleApp\NewConsoleApp\obj\Debug\netcoreapp3.1\NewConsoleApp.AssemblyInfo.cs
+C:\Users\arzusg\source\repos\NewConsoleApp\NewConsoleApp\obj\Debug\netcoreapp3.1\NewConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\arzusg\source\repos\NewConsoleApp\NewConsoleApp\obj\Debug\netcoreapp3.1\NewConsoleApp.dll
+C:\Users\arzusg\source\repos\NewConsoleApp\NewConsoleApp\obj\Debug\netcoreapp3.1\NewConsoleApp.pdb
+C:\Users\arzusg\source\repos\NewConsoleApp\NewConsoleApp\obj\Debug\netcoreapp3.1\NewConsoleApp.genruntimeconfig.cache
