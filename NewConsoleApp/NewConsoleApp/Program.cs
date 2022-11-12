@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace NewConsoleApp
 {
@@ -9,15 +10,16 @@ namespace NewConsoleApp
             Console.WriteLine(ReverseString("brooklyn"));
         }
 
-        static string ReverseString (string rev)
+        static StringBuilder ReverseString (string rev)
         {
-            string rev2="";
-            
+            StringBuilder stringBuilder = new StringBuilder();
+
             for (int i = rev.Length-1; i >=0; i--)
             {
-                rev2 += rev[i];
+                stringBuilder.Append(rev[i]);
             }
-            return rev2;
+            return stringBuilder;
         }
+
     }
 }
